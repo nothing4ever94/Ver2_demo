@@ -18,7 +18,7 @@ In `_config.yml` remember to specify your own data:
       github : trytoforget
       twitter : @NguynBo31159422
       Her fav-song :((
-<iframe width="300" height="300" src="https://www.youtube.com/embed/Ij-2Z4KlF7E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="570" height="321" src="https://www.youtube.com/embed/Ij-2Z4KlF7E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 The theme should reference these variables whenever needed.
@@ -33,5 +33,3 @@ This blog contains sample posts which help stage pages and blog data.
 
 This theme is still unfinished.
 Theme lỗi mới có nhiều cái để xem :))
-Her fav-song
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Ij-2Z4KlF7E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
