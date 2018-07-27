@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : nothings
 tagline: Site Tagline
 author :
   name : Bảo Anh Nguyễn
@@ -27,7 +27,7 @@ author :
 #
 production_url : http://username.github.io
 
-gems: ["jekyll-sitemap"]
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
